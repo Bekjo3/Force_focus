@@ -8,6 +8,7 @@ This project is a Discord bot designed to intervene in group chats when they dev
 - Automatically sends inspiring quotes along with their authors to the chat when a soccer-related topic is mentioned, while the designated topic was different at the moment.
 - Allows users to add and delete custom commands to the list of responses it sends when soccer players or teams are mentioned in a conversation.
 - Provides a flexible option for users to toggle the feature on or off based on their preferences.
+- Includes a GitHub webhook integration that notifies the chat about any new commits or changes made to the repository, keeping everyone up-to-date with the latest developments.
 
 ### API Integration 
 The Bot uses **Zenquotes.io API** to generate the quotes and their authors. Further documentation --> https://docs.zenquotes.io/zenquotes-documentation/
@@ -17,6 +18,7 @@ The Bot uses **Zenquotes.io API** to generate the quotes and their authors. Furt
 - UpTime Robot
 - Replit IDE and Web server
 - Discord.py
+- Discord webhook
 
 ### Screenshot
 ![image](https://github.com/Bekjo3/Force_focus/assets/114708848/272a1d0f-f9e8-47e6-980a-12d545608808)
